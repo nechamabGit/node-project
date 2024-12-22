@@ -1,0 +1,21 @@
+{
+  "name": "ex_6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security",
+    "uuid": "^11.0.3"
+  }
+}
